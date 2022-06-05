@@ -6,9 +6,7 @@
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technology">Technology</a>
 </p>
-<p align="center" style="box-shadow: 3px 6px">
-    <img src="instagram.png">
-</p>
+
 
 
 
